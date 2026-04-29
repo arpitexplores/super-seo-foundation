@@ -1,5 +1,11 @@
 # Super SEO Foundation
 
+<!-- super-series-intro -->
+> Technical SEO foundation skill for audits, crawlability, indexing, schema, sitemaps, hreflang, and Google tooling.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+
 Audit and fix the technical SEO baseline: crawlability, indexing, schema, sitemaps, hreflang, and tooling.
 
 ## Install
@@ -54,6 +60,23 @@ Use $super-seo-foundation to help with this request.
 ## Compatibility
 
 This skill is plain Markdown and is intended to be agent-agnostic. If a bundled helper mentions a specific tool path, translate that instruction to the equivalent path for your environment.
+
+## SUPER Skills Series
+
+This repository is part of the **SUPER Skills** series: standalone, installable agent skills that can be used independently or together.
+
+### Published Series Repositories
+
+| Repository | Purpose |
+| --- | --- |
+| [skills-super](https://github.com/arpitexplores/skills-super) | Master catalogue for the full SUPER Skills collection. |
+| [super-seo-growth](https://github.com/arpitexplores/super-seo-growth) | SEO growth, AI/GEO visibility, content optimisation, and programmatic SEO. |
+| [super-seo-foundation](https://github.com/arpitexplores/super-seo-foundation) | Technical SEO audits, schema, indexing, sitemaps, hreflang, and tooling. |
+| [super-marketing-execution](https://github.com/arpitexplores/super-marketing-execution) | Campaign orchestration, copywriting, CRO, analytics, email, social, and paid ads. |
+| [super-design-core](https://github.com/arpitexplores/super-design-core) | UI/UX, product design, IA, flows, visual systems, and UI patterns. |
+| [super-ai-ml-agents](https://github.com/arpitexplores/super-ai-ml-agents) | Agent architecture, tools, memory, orchestration, and multi-agent patterns. |
+
+Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
 
 ## Version
 
