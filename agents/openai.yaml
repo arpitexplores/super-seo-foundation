@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super SEO Foundation"
+  short_description: "Technical SEO audits and fixes"
+  default_prompt: "Use $super-seo-foundation to help with this request."

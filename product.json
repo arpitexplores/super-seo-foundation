@@ -1,0 +1,22 @@
+{
+  "name": "super-seo-foundation",
+  "title": "Super SEO Foundation",
+  "description": "SEO foundations: audits, technical fixes, schema, sitemaps, hreflang, images, and tooling. Use for baseline health and technical readiness.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "SEO Audit",
+      "path": "references/modules/seo-audit.md"
+    },
+    {
+      "name": "Google SEO Tooling",
+      "path": "references/modules/seo-google.md"
+    },
+    {
+      "name": "Schema & Technical SEO",
+      "path": "references/modules/seo-schema.md"
+    }
+  ]
+}
