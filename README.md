@@ -86,6 +86,11 @@ This repository is part of the **SUPER Skills** series: standalone, installable 
 
 Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
 
+### Additional SUPER Skills In The Catalogue
+
+The full catalogue also includes AI/ML foundation, AI/ML ops, automation, cloud, data analytics, design quality, engineering/DevOps, gaming/3D/media, healthcare/wellness, industry ops, legal/HR/compliance, marketing strategy, office/docs/presentation, product/business/finance, security, and specialised platform SDK skills.
+
+
 ## Version
 
 See `VERSION` and `CHANGELOG.md`.
