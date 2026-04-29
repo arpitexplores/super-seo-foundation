@@ -1,5 +1,4 @@
-## Source: references/skills/seo-audit/SKILL.md
-
+## Module: Seo Audit
 ---
 name: seo-audit
 description: Full SEO audits across technical, page, local, and foundational issues. Use for diagnostic reviews and recovery plans.
@@ -133,7 +132,7 @@ If Google API credentials are configured (`python scripts/google_auth.py --check
 | Rate limiting (429 responses) | Back off and reduce concurrent requests. Report partial results with a note on which sections could not be completed. |
 | Timeout on large sites (500+ pages) | Cap the crawl at the timeout limit. Report findings for pages crawled and estimate total site scope. |
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # SEO Audit
 
@@ -615,7 +614,7 @@ Use these skills **only after the audit is complete** and findings are accepted.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # SEO Audit
 
@@ -1172,7 +1171,7 @@ For parallel analysis during audits:
 | Sub-skill fails during audit | Report partial results from successful sub-skills. Clearly note which sub-skill failed and why. Suggest re-running the failed sub-skill individually. |
 | Ambiguous business type detection | Present the top two detected types with supporting signals. Ask the user to confirm before proceeding with industry-specific recommendations. |
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # SEO Skill (Agentic / Agentic)
 
@@ -3489,8 +3488,7 @@ pip install requests beautifulsoup4
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo/SKILL.md
-
+## Imported Module: Seo
 ---
 name: seo
 description: >
@@ -3661,7 +3659,7 @@ For parallel analysis during audits:
 | Sub-skill fails during audit | Report partial results from successful sub-skills. Clearly note which sub-skill failed and why. Suggest re-running the failed sub-skill individually. |
 | Ambiguous business type detection | Present the top two detected types with supporting signals. Ask the user to confirm before proceeding with industry-specific recommendations. |
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # SEO Skill (Agentic / Agentic)
 
@@ -4007,8 +4005,7 @@ pip install requests beautifulsoup4
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-forensic-incident-response/SKILL.md
-
+## Imported Module: Seo Forensic Incident Response
 ---
 name: seo-forensic-incident-response
 description: "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan."
@@ -4274,8 +4271,7 @@ When helping a user, ask:
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-fundamentals/SKILL.md
-
+## Imported Module: Seo Fundamentals
 ---
 name: seo-fundamentals
 description: Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations, content quality, and how modern search engines evaluate pages.
@@ -4454,8 +4450,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-local/SKILL.md
-
+## Imported Module: Seo Local
 ---
 name: seo-local
 description: >
@@ -4773,8 +4768,7 @@ If DataForSEO MCP tools are available, use `local_business_data` for live GBP da
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-page/SKILL.md
-
+## Imported Module: Seo Page
 ---
 name: seo-page
 description: >
@@ -4873,8 +4867,7 @@ If DataForSEO MCP tools are available, use `serp_organic_live_advanced` for real
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-plan/SKILL.md
-
+## Imported Module: Seo Plan
 ---
 name: seo-plan
 description: >
@@ -5005,8 +4998,7 @@ If DataForSEO MCP tools are available, use `dataforseo_labs_google_competitors_d
 
 ---
 
-## Source: references/skills/seo-audit/references/legacy/seo-technical/SKILL.md
-
+## Imported Module: Seo Technical
 ---
 name: seo-technical
 description: >

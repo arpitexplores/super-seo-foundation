@@ -1,5 +1,4 @@
-## Source: references/skills/seo-schema/SKILL.md
-
+## Module: Seo Schema
 ---
 name: seo-schema
 description: Technical SEO implementation: schema, sitemaps, hreflang, and image optimization.
@@ -520,7 +519,7 @@ Where and how to add it
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Schema Markup
 
@@ -1803,8 +1802,7 @@ Sorted by file size impact (largest savings first):
 
 ---
 
-## Source: references/skills/seo-schema/references/legacy/schema-markup/SKILL.md
-
+## Imported Module: Schema Markup
 ---
 name: schema-markup
 description: Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
@@ -2165,7 +2163,7 @@ Where and how to add it
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Schema Markup
 
@@ -2342,8 +2340,7 @@ You can combine multiple schema types on one page using `@graph`:
 
 ---
 
-## Source: references/skills/seo-schema/references/legacy/seo-hreflang/SKILL.md
-
+## Imported Module: Seo Hreflang
 ---
 name: seo-hreflang
 description: >
@@ -2547,8 +2544,7 @@ Key rules:
 
 ---
 
-## Source: references/skills/seo-schema/references/legacy/seo-images/SKILL.md
-
+## Imported Module: Seo Images
 ---
 name: seo-images
 description: >
@@ -2736,8 +2732,7 @@ Sorted by file size impact (largest savings first):
 
 ---
 
-## Source: references/skills/seo-schema/references/legacy/seo-sitemap/SKILL.md
-
+## Imported Module: Seo Sitemap
 ---
 name: seo-sitemap
 description: >

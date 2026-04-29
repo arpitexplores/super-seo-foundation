@@ -23,7 +23,7 @@ except ImportError:
 AI_CRAWLERS = [
     "GPTBot",
     "ChatGPT-User",
-    "ClaudeBot",
+    "AI assistantBot",
     "PerplexityBot",
     "Google-Extended",
     "Applebot-Extended",

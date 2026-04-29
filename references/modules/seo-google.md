@@ -1,5 +1,4 @@
-## Source: references/skills/seo-google/SKILL.md
-
+## Module: Seo Google
 ---
 name: seo-google
 description: SEO tooling: Google Search Console/PageSpeed/CrUX plus DataForSEO, maps intelligence, and image generation.
@@ -1122,8 +1121,7 @@ After generating, always provide:
 
 ---
 
-## Source: references/skills/seo-google/references/legacy/seo-dataforseo/SKILL.md
-
+## Imported Module: Seo Dataforseo
 ---
 name: seo-dataforseo
 description: >
@@ -1521,8 +1519,7 @@ Match existing seo-toolkit output patterns:
 
 ---
 
-## Source: references/skills/seo-google/references/legacy/seo-image-gen/SKILL.md
-
+## Imported Module: Seo Image Gen
 ---
 name: seo-image-gen
 description: "AI image generation for SEO assets: OG/social preview images, blog hero images, schema images, product photography, infographics. Powered by Gemini via nanobanana-mcp. Requires banana extension installed. Use when user says \"generate image\", \"OG image\", \"social preview\", \"hero image\", \"blog image\", \"product photo\", \"infographic\", \"seo image\", \"create visual\", \"image-gen\", \"favicon\", \"schema image\", \"pinterest pin\", \"generate visual\", \"banner\", or \"thumbnail\"."
@@ -1703,8 +1700,7 @@ After generating, always provide:
 
 ---
 
-## Source: references/skills/seo-google/references/legacy/seo-maps/SKILL.md
-
+## Imported Module: Seo Maps
 ---
 name: seo-maps
 description: >

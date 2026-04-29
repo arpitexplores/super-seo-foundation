@@ -1,5 +1,5 @@
 [project]
-name = "claude-seo"
+name = "super-seo-foundation-scripts"
 version = "1.7.0"
 description = "Comprehensive SEO analysis skill for AI coding assistant"
 requires-python = ">=3.11"
@@ -7,5 +7,5 @@ license = "MIT"
 readme = "README.md"
 
 [project.urls]
-Homepage = "https://github.com/AgriciDaniel/claude-seo"
-Repository = "https://github.com/AgriciDaniel/claude-seo"
+Homepage = "https://github.com/arpitexplores/super-seo-foundation"
+Repository = "https://github.com/arpitexplores/super-seo-foundation"
