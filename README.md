@@ -1,12 +1,20 @@
 # Super SEO Foundation
 
 <!-- super-series-intro -->
-> Technical SEO foundation skill for audits, crawlability, indexing, schema, sitemaps, hreflang, and Google tooling.
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
 [View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
 <!-- /super-series-intro -->
 
 Audit and fix the technical SEO baseline: crawlability, indexing, schema, sitemaps, hreflang, and tooling.
+
+## Why SUPER Skills For AI Vibe Coding
+
+Super SEO Foundation gives AI coding agents a practical technical SEO baseline. Use it to audit sites, detect crawl and indexation problems, validate schema, review sitemaps and hreflang, inspect Core Web Vitals, and turn SEO findings into implementation-ready fixes.
+
+These skills are designed for **AI vibe coding**: fast, agent-assisted building where the AI needs strong domain context, practical workflows, guardrails, and implementation-ready outputs.
+
+**SEO and discovery keywords:** technical SEO, SEO audit, site audit, crawlability, indexing, schema markup, structured data, XML sitemap, hreflang, Core Web Vitals, Google Search Console, PageSpeed Insights, AI vibe coding.
 
 ## Install
 
@@ -69,12 +77,12 @@ This repository is part of the **SUPER Skills** series: standalone, installable 
 
 | Repository | Purpose |
 | --- | --- |
-| [skills-super](https://github.com/arpitexplores/skills-super) | Master catalogue for the full SUPER Skills collection. |
-| [super-seo-growth](https://github.com/arpitexplores/super-seo-growth) | SEO growth, AI/GEO visibility, content optimisation, and programmatic SEO. |
-| [super-seo-foundation](https://github.com/arpitexplores/super-seo-foundation) | Technical SEO audits, schema, indexing, sitemaps, hreflang, and tooling. |
-| [super-marketing-execution](https://github.com/arpitexplores/super-marketing-execution) | Campaign orchestration, copywriting, CRO, analytics, email, social, and paid ads. |
-| [super-design-core](https://github.com/arpitexplores/super-design-core) | UI/UX, product design, IA, flows, visual systems, and UI patterns. |
-| [super-ai-ml-agents](https://github.com/arpitexplores/super-ai-ml-agents) | Agent architecture, tools, memory, orchestration, and multi-agent patterns. |
+| [skills-super](https://github.com/arpitexplores/skills-super) | Master catalogue for the full SUPER Skills collection: AI vibe coding skills, agent workflows, and installable Markdown skills. |
+| [super-seo-growth](https://github.com/arpitexplores/super-seo-growth) | AI SEO, GEO, LLM visibility, content optimisation, programmatic SEO, and citation readiness. |
+| [super-seo-foundation](https://github.com/arpitexplores/super-seo-foundation) | Technical SEO, SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google tooling. |
+| [super-marketing-execution](https://github.com/arpitexplores/super-marketing-execution) | Campaign orchestration, CRO, copywriting, analytics, email, social, paid ads, and growth execution. |
+| [super-design-core](https://github.com/arpitexplores/super-design-core) | UI/UX, product design, design systems, frontend UI patterns, IA, flows, and visual systems. |
+| [super-ai-ml-agents](https://github.com/arpitexplores/super-ai-ml-agents) | AI agents, agent architecture, tool use, memory, orchestration, multi-agent systems, and guardrails. |
 
 Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
 

@@ -1,7 +1,7 @@
 {
   "name": "super-seo-foundation",
   "title": "Super SEO Foundation",
-  "description": "SEO foundations: audits, technical fixes, schema, sitemaps, hreflang, images, and tooling. Use for baseline health and technical readiness.",
+  "description": "The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,20 @@
       "name": "Schema & Technical SEO",
       "path": "references/modules/seo-schema.md"
     }
+  ],
+  "keywords": [
+    "technical SEO",
+    "SEO audit",
+    "site audit",
+    "crawlability",
+    "indexing",
+    "schema markup",
+    "structured data",
+    "XML sitemap",
+    "hreflang",
+    "Core Web Vitals",
+    "Google Search Console",
+    "PageSpeed Insights",
+    "AI vibe coding"
   ]
 }
