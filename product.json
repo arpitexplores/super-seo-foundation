@@ -2,7 +2,7 @@
   "name": "super-seo-foundation",
   "title": "Super SEO Foundation",
   "description": "The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
