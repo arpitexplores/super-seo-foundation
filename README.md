@@ -1,5 +1,10 @@
 # Super SEO Foundation
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Licence](https://img.shields.io/badge/licence-MIT-green)
+![Markdown Skill](https://img.shields.io/badge/Markdown-skill-2b2f36)
+![AI Vibe Coding](https://img.shields.io/badge/AI%20vibe%20coding-ready-ffb000)
+
 <!-- super-series-intro -->
 > The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
@@ -62,7 +67,7 @@ Use $super-seo-foundation to help with this request.
 
 Works with any AI agent that can read Markdown skill files. Install paths vary by tool.
 
-See `INSTALL.md` for detailed installation and update guidance.
+See `INSTALL.md` for detailed installation, Download ZIP instructions, and update guidance.
 
 ## SUPER Skills Series
 
